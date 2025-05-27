@@ -1,0 +1,18 @@
+{
+  "summary": "The meeting covered the project's progression towards the final testing phase scheduled for June 3. The development team is addressing login issues, while other teams are focusing on user guide finalization and marketing campaign preparation.",
+  "decisions": [
+    "Final testing phase scheduled for June 3.",
+    "Marketing will start campaign preparation targeting early adopters."
+  ],
+  "actionItems": [
+    {
+      "task": "Finalize user guide draft",
+      "owner": "Anjali",
+      "due": "June 1"
+    },
+    {
+      "task": "Investigate reported login issues",
+      "owner": "Dev team"
+    }
+  ]
+}

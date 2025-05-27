@@ -1,0 +1,18 @@
+{
+  "summary": "The team discussed the upcoming product launch scheduled for June 10th. Key action items were assigned to prepare for the launch and address feedback from beta users regarding the dashboard.",
+  "decisions": [
+    "New product launch date confirmed for June 10.",
+    "Beta users requested a mobile-first dashboard."
+  ],
+  "actionItems": [
+    {
+      "task": "Prepare onboarding docs",
+      "owner": "Ravi",
+      "due": "June 5"
+    },
+    {
+      "task": "Follow up with logistics team on packaging delay",
+      "owner": "Priya"
+    }
+  ]
+}

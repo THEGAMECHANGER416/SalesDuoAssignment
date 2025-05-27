@@ -1,0 +1,11 @@
+curl  -X POST \
+  'http://localhost:3000/process-meeting' \
+  --header 'Accept: */*' \
+  --header 'User-Agent: Thunder Client (https://www.thunderclient.com)' \
+  --header 'Content-Type: text/plain' \
+  --data-raw 'Team Sync – May 26
+
+- We’ll launch the new product on June 10.
+- Ravi to prepare onboarding docs by June 5.
+- Priya will follow up with logistics team on packaging delay.
+- Beta users requested a mobile-first dashboard.'
